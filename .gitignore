@@ -1,0 +1,10 @@
+# Ignore build artifacts
+build_isolated/
+devel_isolated/
+install_isolated/
+abseil-cpp/
+bags/
+
+# Ignore temporary files
+*.pyc
+*.swp
