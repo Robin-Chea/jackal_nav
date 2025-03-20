@@ -6,4 +6,4 @@ if [ ! -z "$_CATKIN_SETUP_DIR" ] && [ "$_CATKIN_SETUP_DIR" != "/ros_ws/src/catki
   return 1
 fi
 
-_CATKIN_SETUP_DIR= . "/ros_ws/src/catkin_ws/devel_isolated/cartographer_rviz/setup.sh"
+_CATKIN_SETUP_DIR= . "/ros_ws/src/catkin_ws/devel_isolated/my_gazebo_launch/setup.sh"

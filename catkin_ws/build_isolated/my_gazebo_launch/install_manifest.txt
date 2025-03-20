@@ -1,0 +1,16 @@
+/ros_ws/src/catkin_ws/install_isolated/_setup_util.py
+/ros_ws/src/catkin_ws/install_isolated/env.sh
+/ros_ws/src/catkin_ws/install_isolated/setup.bash
+/ros_ws/src/catkin_ws/install_isolated/local_setup.bash
+/ros_ws/src/catkin_ws/install_isolated/setup.sh
+/ros_ws/src/catkin_ws/install_isolated/local_setup.sh
+/ros_ws/src/catkin_ws/install_isolated/setup.zsh
+/ros_ws/src/catkin_ws/install_isolated/local_setup.zsh
+/ros_ws/src/catkin_ws/install_isolated/.rosinstall
+/ros_ws/src/catkin_ws/install_isolated/lib/pkgconfig/my_gazebo_launch.pc
+/ros_ws/src/catkin_ws/install_isolated/share/my_gazebo_launch/cmake/my_gazebo_launchConfig.cmake
+/ros_ws/src/catkin_ws/install_isolated/share/my_gazebo_launch/cmake/my_gazebo_launchConfig-version.cmake
+/ros_ws/src/catkin_ws/install_isolated/share/my_gazebo_launch/package.xml
+/ros_ws/src/catkin_ws/install_isolated/share/my_gazebo_launch/launch/gazebo_launch_file.launch
+/ros_ws/src/catkin_ws/install_isolated/share/my_gazebo_launch/worlds/model.config
+/ros_ws/src/catkin_ws/install_isolated/share/my_gazebo_launch/worlds/model.sdf

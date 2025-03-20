@@ -1,0 +1,8 @@
+prefix=/ros_ws/src/catkin_ws/devel_isolated/my_gazebo_launch
+
+Name: my_gazebo_launch
+Description: Description of my_gazebo_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: gazebo_ros roscpp rospy
